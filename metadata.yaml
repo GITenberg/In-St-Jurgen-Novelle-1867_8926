@@ -1,0 +1,27 @@
+_repo: In-St-Jurgen-Novelle-1867_8926
+creator:
+  author:
+    agent_name: Storm, Theodor
+    alias: Storm, Hans Theodor Woldsen
+    birthdate: 1817
+    deathdate: 1888
+    gutenberg_agent_id: '2128'
+    url: http://www.gutenberg.org/2009/agents/2128
+    wikipedia: http://en.wikipedia.org/wiki/Theodor_Storm
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8926'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Germany, Northern -- Fiction'
+title: 'In St. Jürgen
+
+  Novelle (1867)'
+url: http://www.gutenberg.org/ebooks/8926
